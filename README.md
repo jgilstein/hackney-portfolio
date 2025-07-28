@@ -35,5 +35,5 @@ Special thanks to:
 - Richard Gregory
 - Blake Altieri
 - Starr Ernest
-- My intern counterpart Joshua Ragoonanan
-- Hackney emloyees I interacted with daily
+- My intern counterpart -> Joshua Ragoonanan
+- Hackney employees I interacted with daily
