@@ -1,1 +1,0 @@
-Place your public assets (images, etc.) in this folder.
