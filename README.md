@@ -18,8 +18,7 @@ Over an 8-week internship, I audited over 300+ convenience stores and visualized
 
 ## Live Demo
 
-Visit the site here: [https://hackney-portfolio.vercel.app](https://hackney-portfolio.vercel.app)  
-*(Replace with your actual live link once deployed)*
+Visit the site here: https://jake-gilstein-hackney-portfolio-blush.vercel.app/
 
 ## Included Files
 
