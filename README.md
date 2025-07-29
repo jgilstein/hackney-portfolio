@@ -22,7 +22,7 @@ Visit the site here: https://jake-gilstein-hackney-portfolio-blush.vercel.app/
 
 ## Included Files
 
-- `pages/index.tsx` – Main portfolio page
+- `pages/index.jsx` – Main portfolio page
 - `styles/globals.css` – Custom CSS
 - `public/` – Assets for deployment
 - PDFs and image files from the project deliverables
